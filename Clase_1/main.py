@@ -2,7 +2,7 @@ nombre = "Enrique Alejandro"
 age = 22
 country = "Mexico"
 
-print("hola yo me llamo {} y tengo {} años de edad y soy de {}".format(nombre,age,country))
+print("hola yo me llamo {} y tengo {} años de edad y soy de {}".format(nombre, age, country))
 print(type(nombre))
 print(type(age))
 
